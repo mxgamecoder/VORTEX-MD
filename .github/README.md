@@ -1,6 +1,8 @@
 # **VORTEX-MD**
 
-###### OBB4 IS ONLINE && UPLOADED ON DECEMBER 2 2024
+###### NEW VERSION IS NOW OUT OBB4 && UPLOADED ON DECEMBER 2 2024
+<br>
+
 #### NEXT UPDATE ON JANUARY 1 2025
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VORTEX-MD+IS+AN+INTELLIGENT+ASSISTANT;MULTI-DEVICES+WHATSAPP+BOT;RELEASE+ON+November+26+2024;MX-+GΔMΞCØDΞR+Lead+and+Developer+🤔;Chatgpt+Assistant)](https://git.io/typing-svg)
