@@ -1,7 +1,7 @@
 # **VORTEX-MD**
 
 ###### OBB4 IS ONLINE && UPLOADED ON DECEMBER 2 2024
-#### NEW UPDATE ON JANUARY 1 2025
+#### NEXT UPDATE ON JANUARY 1 2025
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VORTEX-MD+IS+AN+INTELLIGENT+ASSISTANT;MULTI-DEVICES+WHATSAPP+BOT;RELEASE+ON+November+26+2024;MX-+GΔMΞCØDΞR+Lead+and+Developer+🤔;Chatgpt+Assistant)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -81,7 +81,7 @@ To set up the VORTEX-MD quickly, follow our detailed tutorial on YouTube:
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github/Olamilekanda/NovaBot' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 #### DEPLOY IN TERMUX/UBUNTU
  
@@ -145,8 +145,8 @@ npm install && npm start
  <br> 
 <p align="center">
 <a href="https://wa.me/2349021506036"><img src="https://img.shields.io/badge/Contact MX-GΔMΞCØDΞR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/F2JwN4RBlVABhbbEHabGDT"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://t.me/LAKEA1DROP"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
+<a href="https://chat.whatsapp.com/LXZ2978M9TPGzSNPZ1WfdT"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/mxgamecoderr"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -159,11 +159,11 @@ npm install && npm start
 ##### PLEASE SUPPORT ME 🥺
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Me VORTEX-MD Whatsapp group🧑‍💻](https://chat.whatsapp.com/F2JwN4RBlVABhbbEHabGDT)
+* [🧑‍💻 Follow Me VORTEX-MD Whatsapp group🧑‍💻](https://chat.whatsapp.com/LXZ2978M9TPGzSNPZ1WfdT)
 
-* [🧑‍💻 Join VORTEX-MD Telegram Group 🧑‍💻](https://t.me/LAKEA1DROP)
+* [🧑‍💻 Join VORTEX-MD Telegram Group 🧑‍💻](https://t.me/mxgamecoderr)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/GswNqGj4cLp8v6YPeZzvf2)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/LXZ2978M9TPGzSNPZ1WfdT)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>🙂🙂🙂<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
