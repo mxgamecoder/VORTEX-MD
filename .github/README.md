@@ -1,7 +1,6 @@
-# **VORTEX-MD**
+# 🙂 **VORTEX-MD** 🥺
 
 ###### NEW VERSION IS NOW OUT OBB4 && UPLOADED ON DECEMBER 2 2024
-<br>
 
 #### NEXT UPDATE ON JANUARY 1 2025
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
