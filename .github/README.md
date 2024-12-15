@@ -160,7 +160,7 @@ npm install && npm start
 ##### PLEASE SUPPORT ME 🥺
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Me VORTEX-MD Whatsapp group🧑‍💻](https://chat.whatsapp.com/LXZ2978M9TPGzSNPZ1WfdT)
+* [🧑‍💻 Follow Me VORTEX-MD Whatsapp channel 🧑‍💻](https://whatsapp.com/channel/0029Vavz0e6E50Ugp30Z6z0W)
 
 * [🧑‍💻 Join VORTEX-MD Telegram Group 🧑‍💻](https://t.me/mxgamecoderr)
 
@@ -190,5 +190,5 @@ npm install && npm start
 ## Community and Support
 
 FOLLOW MX-GΔMΞCØDΞR WHATSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/F2JwN4RBlVABhbbEHabGDT)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vavz0e6E50Ugp30Z6z0W)
 
