@@ -32,7 +32,7 @@
 ## 🎬 Watch the Tutorial
 
 To set up the VORTEX-MD quickly, follow our detailed tutorial on YouTube:
-[![VORTEX-BOT-V1 YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@mxgamecoder?si=fQfOCM3jvDplLU4d)
+[![VORTEX-MD YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@mxgamecoder?si=fQfOCM3jvDplLU4d)
 
 ---
 
@@ -54,14 +54,14 @@ To set up the VORTEX-MD quickly, follow our detailed tutorial on YouTube:
 
 ### 2. GET SESSION ID HERE
 
-### SERVER 1
+### SERVER 1 (creds.json)
  
 <a href="https://replit.com/@mxgamecoder/VORTEX-BOT-PAIRING"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 
-### SERVER 2
+### SERVER 2 (pair code)
  
-<a href="https://vortex-md-pair-code-48fw.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+<a href="https://session-h1rv.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 ### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
 
@@ -134,7 +134,7 @@ npm install && npm start
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number e.g 923444844060 | 
+| OWNERS | owner number e.g 2349021506xxx | 
 | BOTNAME | Your Bot Name | 
 | antidelete | bot will forward deleted messages if you make it true | 
 <br>
@@ -146,7 +146,7 @@ npm install && npm start
  <br> 
 <p align="center">
 <a href="https://wa.me/2349021506036"><img src="https://img.shields.io/badge/Contact MX-GΔMΞCØDΞR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/LXZ2978M9TPGzSNPZ1WfdT"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vavz0e6E50Ugp30Z6z0W"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/mxgamecoderr"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
