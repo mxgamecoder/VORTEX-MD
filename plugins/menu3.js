@@ -28,8 +28,8 @@ let handler = async function (m, { conn, text, usedPrefix }) {
   await conn.sendFile(m.chat, pp, 'menu.jpg', m2, m);
 }
 
-handler.help = ['menu3'];
+handler.help = ['md'];
 handler.tags = ['main'];
-handler.command = ['menu3', 'audios'];
+handler.command = ['md', 'audios'];
 
 export default handler;
